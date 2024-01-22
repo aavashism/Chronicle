@@ -28,9 +28,9 @@ Follow these steps to get your development environment running:
 1. **Clone the repository**:
    Clone the project repository to your local machine using the following command in your terminal or command prompt:
    \```bash
-   git clone https://github.com/yourusername/chronicle.git
+   git clone https://github.com/aavashism/chronicle.git
    \```
-   Replace `https://github.com/yourusername/chronicle.git` with the actual URL of your repository.
+   Replace `https://github.com/aavashism/chronicle.git` with the actual URL of your repository.
 
 2. **Navigate to the project directory**:
    Change into the project directory:
