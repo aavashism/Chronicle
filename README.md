@@ -66,7 +66,7 @@ Please read [CONTRIBUTING.md](#) for details on our code of conduct, and the pro
 
 ## Authors
 
-- **Aavash Upadhyaya** - *Initial work* - [aavashism](https://github.com/aavashism)
+- **Aavash Upadhyaya** - [aavashism](https://github.com/aavashism)
 
 
 ## License
